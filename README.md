@@ -35,7 +35,5 @@ Web Development | Database Management | Network Security | Testing & Automation 
 ## 🌐 Socials  
 Always open to new connections and collaborations! Feel free to explore my profiles and portfolio below:
 
-- [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sim-zhong-cheng)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ivansimzc/profilecard/?igsh=NHdhZW42c3RwaXdk)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=github&logoColor=white)](wip)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sim-zhong-cheng) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ivansimzc/profilecard/?igsh=NHdhZW42c3RwaXdk) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=github&logoColor=white)](wip)
  
